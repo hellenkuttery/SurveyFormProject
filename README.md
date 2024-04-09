@@ -3,14 +3,6 @@
 ## Description
 Project aims to create survey form within html and css.
 
-## Problem Statement
-
-- Your company has recently started on a project that aims to conduct a survey to measure the demands and interests of its customers. So you and your colleagues have started to work on the project.
-
-## Project Design
-
-- <a href="https://www.figma.com/file/HXULRJVkPlaCpxQlbm82bX/Project001?node-id=6%3A4">https://www.figma.com/file/HXULRJVkPlaCpxQlbm82bX/Project001?node-id=6%3A4<a>
-
 ## Project Skeleton 
 
 ```
@@ -23,13 +15,13 @@ Project aims to create survey form within html and css.
         |----result.html 
 ```
 
-## Expected Outcome
+## Project Gif
 
 to do: Gif will added
 
-## Objective
+## Project Link:
 
-Build a Survey Form that is functionally similar to this: [Survey Form](https://mccarthy-silva.github.io/Survey-Form/)
+ [Survey Form](https://mccarthy-silva.github.io/Survey-Form/)
 
 ### At the end of the project, following topics are to be covered;
 
